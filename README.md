@@ -7,4 +7,4 @@ Em relação às linguagens de programação e às ferramentas empregadas, escol
 
 Projeto criado por Yves P. C. Rêgo e Ana S. de S. Silva.
 
-P.S: Há mudanças que podem ser feitas para otimizar o código, entretanto, devido às circunstâncias dos programadores no momento do desenvolvimento do projeto, essas alterações e otimizações não puderam ser realizadas.
+P.S: Há mudanças que podem ser feitas para otimizar o código. Devido às circunstâncias dos programadores no momento do desenvolvimento do projeto, essas alterações e otimizações não puderam ser realizadas.
